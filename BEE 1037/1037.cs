@@ -25,7 +25,7 @@ namespace BEE_1037
             }
             else
             {
-                Console.WriteLine("Intervalo (75,100]");
+                Console.WriteLine("quero chorar");
             }
         }
     }
